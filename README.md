@@ -1,8 +1,6 @@
 
 <div align= "center">
-    https://github.com/user-attachments/assets/003ba65c-03f8-4746-b599-3a0e61c7cf95
-    </div>
-    <div align= "center"> 
+    <img src="https://github.com/user-attachments/assets/4c7c8b13-6ed5-4f6e-91ec-04f6fdeb7ecf" alt="다운로드">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
