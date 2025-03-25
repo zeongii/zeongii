@@ -1,6 +1,6 @@
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=e15bdd&height=240&text=Zeongii's%20GitHub!&animation=blinking&fontColor=918d8d&fontSize=60" />
+    ![AdobeStock_314751366-scaled](https://github.com/user-attachments/assets/003ba65c-03f8-4746-b599-3a0e61c7cf95)
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -29,5 +29,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeongii&hide=contribs,prs&show_icons=true&theme=gatewwhite)
     </div>
 
-    [![GitHub Streak](https://streak-stats.demolab.com?user=zeongii&theme=travelers-theme)](https://git.io/streak-stats)
     
