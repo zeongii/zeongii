@@ -1,6 +1,6 @@
 
 <div align= "center">
-    ![AdobeStock_314751366-scaled](https://github.com/user-attachments/assets/003ba65c-03f8-4746-b599-3a0e61c7cf95)
+    https://github.com/user-attachments/assets/003ba65c-03f8-4746-b599-3a0e61c7cf95
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
