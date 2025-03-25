@@ -25,8 +25,9 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    [![GitHub Streak](https://streak-stats.demolab.com?user=zeongii&theme=travelers-theme)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeongii&hide=contribs,prs&show_icons=true&theme=gatewwhite)
     </div>
+
+    [![GitHub Streak](https://streak-stats.demolab.com?user=zeongii&theme=travelers-theme)](https://git.io/streak-stats)
     
